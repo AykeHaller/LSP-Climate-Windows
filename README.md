@@ -4,7 +4,8 @@ MSc Thesis: Weather Conditions Influence Breeding Initiation of an Intra-Tropica
 
 Ayke Haller (1), Tarso Ciolete (2), Leonardo Lopes (3), and Filipe Cunha (1)
 
-Affiliations
+Affiliations:
+
 1 Wageningen University & Research, Behavioural Ecology Group
 2 Universidade Federal de Minas Gerais
 3 Universidade Federal de Viçosa, Campus Florestal
