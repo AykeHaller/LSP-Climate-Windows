@@ -7,7 +7,9 @@ Ayke Haller (1), Tarso Ciolete (2), Leonardo Lopes (3), and Filipe Cunha (1)
 Affiliations:
 
 1 Wageningen University & Research, Behavioural Ecology Group
+
 2 Universidade Federal de Minas Gerais
+
 3 Universidade Federal de Viçosa, Campus Florestal
 
 Each folder contains the respective dataset and scripts used for the analysis.
